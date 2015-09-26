@@ -1,0 +1,38 @@
+body{
+	background-image:url('http://wallchips.com/wp-content/uploads/2013/07/Bear-Candy-Vintage-Wallpaper-HD.jpg');
+	background-position:center; 
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-size:1450px;
+   	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+h2{
+ 	font-size:3em;
+ 	text-align: center;
+ 	font-family: "Comic Sans MS", cursive, sans-serif; 
+ 	color: skyblue;
+ 	text-shadow: 2px 2px midnightblue;
+ }
+
+ p{
+ 	display: block;
+ 	margin-left: 10px;
+ }
+
+label{
+ 	display: block;
+ 	font-family: "Comic Sans MS", cursive, sans-serif; 
+ 	float:left;
+    text-align:right;
+    margin-right:5px;
+    margin-left: 10px;
+ }
+
+ input{
+ 	display:block;
+ 	margin-left: 10px;
+ }
+
